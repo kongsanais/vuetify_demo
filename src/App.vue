@@ -22,7 +22,7 @@
         outlined
       >
         <span class="mr-2">About</span>
-        <v-icon>mdi-open-in-new</v-icon>
+        <v-icon >mdi-open-in-new</v-icon>
       </v-btn>  
 
   </v-app-bar>
