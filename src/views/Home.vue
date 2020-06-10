@@ -2,7 +2,7 @@
   <div id="home">
    <v-container >
      <h1>Home</h1>
-     <p class="black lighten-3 white--text">test text</p>
+     <p class="black lighten-3 white--text">test texts</p>
      <p class="text-uppercase">test show text</p>
      <v-btn class="primary black--text mr-5 ">run</v-btn>
      <v-btn fab class="primary black--text mr-5"><i class="material-icons">&#xE87C;</i></v-btn>
