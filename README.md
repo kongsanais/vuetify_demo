@@ -1,24 +1,19 @@
 # vuetify_demo
 
-## Project setup
-```
-yarn install
-```
+### Project setup
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+``` bash
+# create new vue project 
+$ vue create my-app
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# add vuetify to project 
+$ vue add vuetify
 
-### Lints and fixes files
-```
-yarn lint
-```
+# add material icon to project 
+# after install import 'material-design-icons-iconfont/dist/material-design-icons.css' in main.js; 
+$ npm install --save material-design-icons-iconfont
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# run app
+$ yarn serve 
+
+```
