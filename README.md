@@ -13,6 +13,7 @@ $ vue add vuetify
 # after install import 'material-design-icons-iconfont/dist/material-design-icons.css' in main.js; 
 $ npm install --save material-design-icons-iconfont
 
-
+# run app
+$ yarn serve 
 
 ```
