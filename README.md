@@ -9,6 +9,9 @@ $ vue create my-app
 # add vuetify to project 
 $ vue add vuetify
 
-# add material icon to vue 
+# add material icon to project 
 $ npm install --save material-design-icons-iconfont
+# import 'material-design-icons-iconfont/dist/material-design-icons.css'; 
+
+
 ```
